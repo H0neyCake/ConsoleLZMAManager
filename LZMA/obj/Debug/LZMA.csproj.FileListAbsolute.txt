@@ -1,0 +1,9 @@
+C:\Users\Dmitry\Documents\Visual Studio 2017\Projects\LZMA\LZMA\bin\Debug\LZMA.exe.config
+C:\Users\Dmitry\Documents\Visual Studio 2017\Projects\LZMA\LZMA\bin\Debug\LZMA.exe
+C:\Users\Dmitry\Documents\Visual Studio 2017\Projects\LZMA\LZMA\bin\Debug\LZMA.pdb
+C:\Users\Dmitry\Documents\Visual Studio 2017\Projects\LZMA\LZMA\bin\Debug\SevenZip.dll
+C:\Users\Dmitry\Documents\Visual Studio 2017\Projects\LZMA\LZMA\obj\Debug\LZMA.csprojResolveAssemblyReference.cache
+C:\Users\Dmitry\Documents\Visual Studio 2017\Projects\LZMA\LZMA\obj\Debug\LZMA.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\Documents\Visual Studio 2017\Projects\LZMA\LZMA\obj\Debug\LZMA.csproj.CopyComplete
+C:\Users\Dmitry\Documents\Visual Studio 2017\Projects\LZMA\LZMA\obj\Debug\LZMA.exe
+C:\Users\Dmitry\Documents\Visual Studio 2017\Projects\LZMA\LZMA\obj\Debug\LZMA.pdb
